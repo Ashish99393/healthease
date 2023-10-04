@@ -1,4 +1,5 @@
-# healthease
+# healthease backend
+Co-Author: Reetika Chowdhury
 
 # Appointment Controller
 ![image](https://github.com/Ashish99393/healthease/assets/59952371/fd9632d8-8474-48f2-a293-a30564ca5bc4)
